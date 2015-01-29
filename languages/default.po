@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UOU Bookings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-22 14:51+0600\n"
+"PO-Revision-Date: 2014-08-22 14:51+0600\n"
+"Last-Translator: Faysal Haque <faysal.haque@gmail.com>\n"
+"Language-Team: Uouapps <faysal.haque@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/admin/class-uou-meta-boxes.php:49
+msgid "Bookable product"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:3
+#: ../includes/admin/views/uou-own-booking-availability.php:60
+msgid "Successfully done !"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:4
+msgid "Please publish or draft the post first !"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:5
+msgid "Resouce names exists, Please choose another Resouce names !"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:7
+#: ../includes/admin/views/uou-own-booking-availability.php:62
+msgid "save"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:8
+#: ../includes/admin/views/uou-own-booking-availability.php:63
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:46
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:82
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:148
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:208
+#: ../includes/vendor/cuztom/classes/fields/tab.class.php:51
+#: ../includes/vendor/cuztom/classes/meta.class.php:96
+msgid "Add"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:12
+msgid "Booking Cost"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:12
+msgid "The cost for the booking."
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:37
+#: ../includes/admin/views/uou-own-booking-availability.php:74
+#: ../includes/vendor/wrapper/class.settingsapi.php:394
+#: ../includes/vendor/wrapper/class.settingsapi.php:403
+msgid "Remove"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:38
+#: ../includes/admin/views/uou-own-booking-availability.php:75
+msgid "show/hide"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:44
+#: ../includes/admin/views/uou-booking-data_uou.php:108
+msgid "Please Select type"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:46
+#: ../includes/admin/views/uou-booking-data_uou.php:110
+msgid "Person"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:47
+#: ../includes/admin/views/uou-booking-data_uou.php:111
+msgid "Resouce"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:53
+#: ../includes/admin/views/uou-booking-data_uou.php:116
+msgid "Number of person"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:53
+#: ../includes/admin/views/uou-booking-data_uou.php:116
+msgid "The number of person."
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:59
+#: ../includes/admin/views/uou-booking-data_uou.php:121
+msgid "Cost"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:59
+#: ../includes/admin/views/uou-booking-data_uou.php:121
+msgid "The amount of cost per person."
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:68
+#: ../includes/admin/views/uou-booking-data_uou.php:129
+msgid "Name of the Resource"
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-data_uou.php:68
+#: ../includes/admin/views/uou-booking-data_uou.php:129
+msgid "Enter the Name of the Resource you want."
+msgstr ""
+
+#: ../includes/admin/views/uou-booking-tab.php:1
+msgid "Availability"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:7
+msgid "Own Availibility"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:10
+msgid "Manage Resource"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:24
+msgid "Range type"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:25
+msgid "From"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:26
+msgid "To"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:27
+msgid "Bookable"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:27
+msgid ""
+"Please select the date range for which you want the product to be disabled."
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:39
+msgid "Add Range"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:40
+msgid "Please select the date range to be disabled for the product."
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:79
+msgid "Select availibility Type"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:103
+msgid "Sorry No Resource were found"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:112
+msgid "Resource cost"
+msgstr ""
+
+#: ../includes/admin/views/uou-own-booking-availability.php:112
+msgid "Cost of Resource."
+msgstr ""
+
+#: ../includes/admin/views/uou-resource-booking-availability-fields.php:12
+msgid "Custom date range"
+msgstr ""
+
+#: ../includes/admin/views/uou-resource-booking-availability-fields.php:29
+#: ../includes/vendor/cuztom/classes/fields/yesno.class.php:20
+msgid "No"
+msgstr ""
+
+#: ../includes/admin/views/uou-resource-booking-availability-fields.php:30
+#: ../includes/vendor/cuztom/classes/fields/yesno.class.php:17
+msgid "Yes"
+msgstr ""
+
+#: ../includes/uou-booking-calculate-cost.php:36
+msgid "Already Booked"
+msgstr ""
+
+#: ../includes/uou-booking-calculate-cost.php:40
+msgid "Book Now"
+msgstr ""
+
+#: ../includes/uou-booking-calculate-cost.php:244
+msgid "Resource: "
+msgstr ""
+
+#: ../includes/uou-booking-calculate-cost.php:259
+msgid "Person: "
+msgstr ""
+
+#: ../includes/uou-booking-calculate-cost.php:313
+msgid "check in : "
+msgstr ""
+
+#: ../includes/uou-booking-calculate-cost.php:314
+msgid "check out : "
+msgstr ""
+
+#: ../includes/uou-booking-calculate-cost.php:320
+msgid "total_days: "
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/cuztom.class.php:157
+msgid "Use of a reserved term."
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/field.class.php:164
+msgid "Save"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:94
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:160
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:220
+msgid "This input type doesn't support the bundle functionality (yet)."
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/file.class.php:35
+msgid "Select file"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/file.class.php:36
+#: ../includes/vendor/cuztom/cuztom.php:202
+msgid "Remove current file"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/image.class.php:29
+msgid "Select image"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/image.class.php:30
+#: ../includes/vendor/cuztom/cuztom.php:201
+msgid "Remove current image"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/meta/meta_box.class.php:167
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:176
+msgid "Date"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:77
+#: ../includes/vendor/cuztom/classes/post_type.class.php:96
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:110
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:118
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:78
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:103
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:80
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:108
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:81
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:106
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:82
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:83
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:84
+#, php-format
+msgid "%s Archive"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:85
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:102
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:86
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:87
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:88
+#, php-format
+msgid "%s Parent"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:104
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:105
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:107
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:109
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:233
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/uou_booking.php:13
+msgid "Resource"
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/uou_booking.php:47
+msgid "No of Person"
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/uou_booking.php:84
+msgid "Arrival"
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/uou_booking.php:90
+msgid "Departure"
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/uou_booking.php:98
+msgid "Total Booking Cost : &nbsp;"
+msgstr ""
+
+#: ../uou-bookings.php:166
+msgid ""
+"Please Install WooCommerce First before activating this Plugin. You can "
+"download WooCommerce from <a href=\"http://wordpress.org/plugins/woocommerce/"
+"\">here</a>."
+msgstr ""

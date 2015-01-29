@@ -1,0 +1,217 @@
+/*by PROBAL*/
+
+#add_uou_attribute{
+	float: right;
+	margin: 10px !important;
+}
+#remove_uou_attribute{
+	/*float: right;*/
+	margin: 10px !important;
+}
+#save_uou_attribute{
+	margin: 10px;
+}
+#show_uou_attribute{
+	margin: 10px !important;
+	float: right;
+}
+.header_part{
+	background-color: #eee;
+	cursor: move;
+}
+.alert-success {
+	padding: 10px;
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6
+}
+.main_part{
+	border: 1px solid #eee;
+}
+#uou_repeatable_place{
+	border:1px solid rgb(230,230,230);
+	border-bottom: 0px !important;
+}
+.uou_repeatable{
+	margin: 10px;
+}
+.uou-ui-state-highlight {
+	margin: 10px;
+	height: 45px;
+    width: 96%;
+    background: none !important;
+    border: 1px dashed #000 !important;
+}
+#own_tab{
+	border: 1px solid #eee;
+}
+#resource_tab{
+	border: 1px solid #eee;
+}
+.availibility_head{
+	background-color: #eee;
+	cursor: move;
+}
+#remove_uou_availibility{
+	margin: 10px !important;
+}
+#show_uou_availibility{
+	float: right;
+	margin: 10px !important;
+}
+.repeatable_availibility{
+	margin: 10px;
+	border: 1px solid #eee;
+}
+#add_uou_availibility{
+	float: right;
+	margin: 10px !important;
+}
+#save_uou_availibility{
+	margin: 10px !important;
+}
+li.uou_bookings_availability_tab a:before{
+	content: '\e00e'!important;
+}
+
+
+
+
+/*// Extra*/
+
+
+#bookings_availability .table_grid {
+    padding: 9px 9px 0
+}
+#bookings_availability .options_group_heading {
+    background: #ececec;
+    border-bottom: 1px solid #dfdfdf;
+    padding: .5em 12px;
+    margin: -10px -9px .75em
+}
+#bookings_availability .edit_resource{
+    float: right;
+    margin: 0 1em 0 0;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 0
+}
+#bookings_availability .table_grid table{
+    margin-bottom: 9px
+}
+#bookings_availability .table_grid table td.sort{
+    width: 16px!important;
+    padding: 9px;
+    cursor: move;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAHUlEQVQYV2O8f//+fwY8gJGgAny6QXKETRgEVgAAXxAVsa5Xr3QAAAAASUVORK5CYII=) no-repeat center
+}
+#bookings_availability .table_grid table td.remove{
+    width: 16px!important;
+    cursor: pointer;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAOElEQVQYV2O8f//+fwYgUFRUZATRMAATZ4QxkBUhi4F1IQsgmwIyFW4suiKYlcQpwGsFQUcS8iYAtbQueUkqcX4AAAAASUVORK5CYII=) no-repeat center!important
+}
+#bookings_availability .table_grid table td.remove:hover{
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAJCAYAAAAPU20uAAAAXElEQVQYV2P8DwQMQMAIBCAaBuDiMAayIhSxNery/4NvPEDWDGev1VBgABuLTRFIMuTmQ4S9yMYiWwd3GLoCmCJGZAmQsSCA7Ca4Apid6G5iBDkQJAhyELJXYOIAYDU73N3P8p4AAAAASUVORK5CYII=) no-repeat center!important
+}
+#bookings_availability .table_grid table th.remove, #bookings_availability .table_grid table th.sort{
+    width: 16px!important
+}
+#bookings_availability .table_grid table th{
+    padding: 9px
+}
+#bookings_availability .table_grid table td{
+    padding: 9px;
+    width: auto!important;
+    border-right: 1px solid #DFDFDF;
+    border-bottom: 1px solid #DFDFDF;
+    border-top: 0;
+    background: #fff;
+    position: relative
+}
+#bookings_availability .table_grid table td input, #bookings_availability .table_grid table td select{
+    line-height: 14px;
+    font-size: 14px
+}
+#bookings_availability .table_grid table td input, #bookings_availability .table_grid table td span.text{
+    width: 100%;
+    padding: 6px 7px;
+    margin: 0;
+    border: 0;
+    background: transparent none;
+    display: block;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    float: none;
+    outline: 0!important
+}
+#bookings_availability .table_grid table td.checkbox{
+    vertical-align: middle;
+    text-align: center
+}
+#bookings_availability .table_grid table td.checkbox input{
+    width: auto;
+    float: none;
+    display: inline
+}
+#bookings_availability .table_grid table td .from_date, #bookings_availability .table_grid table td .to_date{
+    position: relative
+}
+#bookings_availability .table_grid table td input.short, #bookings_persons .table_grid table td input.short{
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    width: 1em;
+    box-sizing: content-box;
+    text-align: center
+}
+#bookings_availability .table_grid table td .ui-datepicker-trigger{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin: -8px 9px 0 0
+}
+#bookings_availability .table_grid table td select{
+    width: 100%;
+    padding: 4px 7px;
+    margin: 0
+}
+#bookings_availability .table_grid table td .select{
+    padding: 2px;
+    overflow: hidden;
+    zoom: 1;
+    min-width: 50px
+}
+#bookings_availability .table_grid table td:last-child{
+    border-right: 0
+}
+#bookings_availability .table_grid table tr.current td{
+    background: #fefbcc
+}
+#bookings_availability .table_grid table .button-primary{
+    float: right
+}
+#bookings_availability .table_grid table tfoot td, #bookings_availability .table_grid table tfoot th{
+    padding: 9px;
+    vertical-align: middle;
+    line-height: 26px
+}
+#bookings_availability .toolbar{
+    overflow: hidden
+}
+#bookings_availability .toolbar .add_resource, #bookings_availability .toolbar .add_resource_id{
+    float: right;
+    margin-left: 10px
+}
+#bookings_availability .toolbar h3{
+    float: left;
+    padding: 0;
+    border: 0
+}
+#bookings_availability .woocommerce_booking_person label, #bookings_availability .woocommerce_booking_resource label{
+    width: auto;
+    float: none;
+    margin: 0
+}
+#bookings_settings .hndle {
+    cursor: default
+}

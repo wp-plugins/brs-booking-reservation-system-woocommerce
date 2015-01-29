@@ -1,0 +1,63 @@
+
+#jrange input {
+   width: 200px;
+}
+
+#jrange div {
+   font-size: 9pt;
+}
+
+.date-range-selected > .ui-state-active,
+.date-range-selected > .ui-state-default {
+   background: none;
+   background-color: lightsteelblue;
+}
+
+
+.chzn-container, .chzn-container-multi .chzn-choices li.search-field input[type="text"] {
+	width: 100% !important;
+}
+.woocommerce form.uou-form .form-row {
+	margin-top: 10px;
+	padding: 0;
+}
+
+.woocommerce form.uou-form .calendar-input {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+}
+.woocommerce form.uou-form .calendar-input input {
+	margin: 1px 0;
+	padding: 5px;
+	height: 15px;
+	width: 96%;
+	outline: 0;
+	border: 1px solid #aaa;
+	box-shadow: none;
+	color: #111 !important;
+	font-size: 100%;
+	font-family: sans-serif;
+	line-height: normal;
+	border-radius: 0;
+}
+.woocommerce form.uou-form .calendar-input input:focus{
+	border: 1px solid #5897fb;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.woocommerce form.uou-form .calendar-input .fa {
+	position: absolute;
+	top: 6px;
+	right: 4px;
+	font-size: 18px;
+}
+
+
+.woocommerce .uou-cart-title {
+	margin: 0;
+}
+
+.woocommerce table.shop_table td .uou-options-table td {
+	padding: 5px 0;
+}
