@@ -27,7 +27,7 @@ Below if a list of the main features offered by BRS:
 *   Select & Choose Multiple Resources ( For Example : Air-conditioning, Garden, Sea view etc. )
 *   Apply Coupon code/ Discount Code of Woocommerce
 
-Some premium themes are made of this plugin. 
+Some premium themes are made by this plugin. 
 
 [Concierge - Luxury Lifestyle Services](http://themeforest.net/item/concierge-luxury-lifestyle-services/9911167?ref=uouapps "concierge") & 
 [Casa - Book, Rent or Buy Property](http://themeforest.net/item/casa-book-rent-or-buy-property/9274828?ref=uouapps "casa")
