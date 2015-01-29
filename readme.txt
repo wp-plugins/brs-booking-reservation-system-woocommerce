@@ -40,7 +40,7 @@ Some premium themes are made of this plugin.
 
 1. To install the plugin go to the wordpress codex: http://codex.wordpress.org/Managing_Plugins or you can install manually http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation
 
-For details please goto: http://dgfactory.com/demo/screenshots/documentation/
+For details please goto: https://uouapps.com/documentation/brs/
 
 == Frequently Asked Questions ==
 = FAQ =
