@@ -16,21 +16,25 @@ BRS is a user-friendly booking plugin built with woocommerce, that allows you to
 
 Whether you’re running a real estate agency, car rental, hotel… BRS plugin is the ideal solution for your business.
 
-Below if a list of the main features offered by BRS:
+The features are offered by BRS:
 
 *   Manage Booking Cost Easily
 *   Individual Booking Cost per Resource & Person
 *   Booking Availability from Backend
+*   Booking availability shows in front-end
 *   Define Resource Cost
 *   Drag & Drop Functionality for person & resource
 *   Custom Order Message via E-mail
-*   Select & Choose Multiple Resources ( For Example : Air-conditioning, Garden, Sea view etc. )
+*   Select & Choose Multiple Resources ( For Example : Air-conditioning, Garden, 	 Sea view etc. )
 *   Apply Coupon code/ Discount Code of Woocommerce
+
 
 Some premium themes are made by this plugin. 
 
 [Concierge - Luxury Lifestyle Services](http://themeforest.net/item/concierge-luxury-lifestyle-services/9911167?ref=uouapps "concierge") & 
 [Casa - Book, Rent or Buy Property](http://themeforest.net/item/casa-book-rent-or-buy-property/9274828?ref=uouapps "casa")
+
+
 
 
 
