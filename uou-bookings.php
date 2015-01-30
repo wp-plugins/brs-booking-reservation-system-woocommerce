@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: BRS Bookings
- * Plugin URI:  http://dgfactory.com/
+ * Plugin URI:  http://uouapps.com/
  * Description: Booking plugin | Make any reservation sytem with the help of this Bookings plugin. This plugin extends from WooCommerce. This plugin require WooCommerce plugin. You can download the WooCommerce plugin from http://wordpress.org/plugins/woocommerce/
  * Author:      UOUAPPS
  * Author URI:  http://dgfactory.com/
