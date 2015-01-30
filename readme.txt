@@ -18,10 +18,10 @@ Whether you’re running a real estate agency, car rental, hotel… BRS plugin i
 
 
 
-=Some premium themes are made by this plugin.= 
+Some premium themes are made by this plugin. 
 
-=[Concierge - Luxury Lifestyle Services](http://themeforest.net/item/concierge-luxury-lifestyle-services/9911167?ref=uouapps "concierge") & 
-[Casa - Book, Rent or Buy Property](http://themeforest.net/item/casa-book-rent-or-buy-property/9274828?ref=uouapps "casa")=
+[Concierge - Luxury Lifestyle Services](http://themeforest.net/item/concierge-luxury-lifestyle-services/9911167?ref=uouapps "concierge") & 
+[Casa - Book, Rent or Buy Property](http://themeforest.net/item/casa-book-rent-or-buy-property/9274828?ref=uouapps "casa")
 
 
 
@@ -36,6 +36,10 @@ The features are offered by BRS:
 *   Custom Order Message via E-mail
 *   Select & Choose Multiple Resources ( For Example : Air-conditioning, Garden, 	 Sea view etc. )
 *   Apply Coupon code/ Discount Code of Woocommerce
+
+
+
+Documentation Link : https://uouapps.com/documentation/brs/
 
 
 
