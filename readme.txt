@@ -1,6 +1,6 @@
 === BRS - Booking & Reservation System (WooCommerce) ===
 Contributors: uouapps
-Donate link: http://example.com/
+Donate link: http://donation.uouapps.com/
 Tags: agenda, booking, booking system, calendar, car rental, hotel, listings, management system, real estate, rentals, reservation, reservation system, woo booking, woocommerce
 Requires at least: 3.0.1
 Tested up to: 4.1
